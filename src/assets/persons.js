@@ -16116,5 +16116,21 @@ export const data = {
         country: "India",
       },
     },
+    {
+    id: uuidv4(),
+    name: "Fakhar Hanif",
+    img: "https://avatars1.githubusercontent.com/u/68884770?v=4",
+    links: {
+      website: " ",
+      linkedin: "https://www.linkedin.com/in/fakhar-hanif-366bb51b4/",
+      github: "https://github.com/fhwali"
+    },
+    jobTitle: "Front-End Developer",
+    location: {
+      city: "Taylors",
+      state: "South Carolina",
+      country: "USA"
+    },
+  },
   ],
 }
